@@ -11,12 +11,13 @@
 
 
 ## 使用方式：
-把笔记另存为 htm格式：
+**把笔记另存为 htm格式：**
 
 ![](index_files/a7cc71bb-ee2c-4004-83e8-4483120a511a.png)
 ![](index_files/6e49ea83-1ef6-44f4-b823-8d437ee89e6c.png)
 
-此时会有2个文件夹：
+**此时会有2个文件夹：**
+
 ![](index_files/0092d583-c7e6-4106-9d1e-686495fc6deb.jpg)
 
 
