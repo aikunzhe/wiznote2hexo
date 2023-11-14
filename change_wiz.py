@@ -1,4 +1,4 @@
-#coding=utf-8
+#coding=gbk
 
 import os
 import time
@@ -79,5 +79,5 @@ abbrlink: {content_hash}
         os.rename(files_folder_path, renamed_files_folder_path)
 
 # 示例使用
-file_path = '/mnt/d/longz/Desktop/004.htm'  # 请替换为实际的文件路径
+file_path = '/mnt/d/longz/Desktop/004 为知笔记转hexo.htm'  # 请替换为实际的文件路径
 process_html_file(file_path)
