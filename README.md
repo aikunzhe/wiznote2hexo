@@ -1,0 +1,2 @@
+# wiznote2hexo
+为知笔记markdown转为hexo博客markdown
